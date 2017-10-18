@@ -26,11 +26,13 @@ A cogent, well-sourced, biblically-grounded, evangelistic theological treatise s
 ### Incidental
 
 * Great Controversy metanarrative
-* 
+
 ### Principles
 
 * Biblically-grounded
+
 * EGW informed
+
 * Approachable
 * Well-sourced
 * Evangelistically-focused
@@ -43,7 +45,7 @@ A cogent, well-sourced, biblically-grounded, evangelistic theological treatise s
 
 These are listed in rough order from earlier in the process to later in the process.
 
-* **Primary**
+* **Initial**
 * Doug Leffler
 * John Krum
 * Ken Ray
@@ -62,8 +64,4 @@ These are listed in rough order from earlier in the process to later in the proc
 ## When?
 
 June 2020
-
----
-
-
 
