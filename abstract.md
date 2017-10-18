@@ -29,10 +29,8 @@ A cogent, well-sourced, biblically-grounded, evangelistic theological treatise s
 
 ### Principles
 
-* Biblically-grounded
-
+* Biblically grounded
 * EGW informed
-
 * Approachable
 * Well-sourced
 * Evangelistically-focused
